@@ -25,7 +25,7 @@ Created by Vincent Welbourne (vincent.vw04@gmail.com)
 
 ### Quick Install (System-wide)
 ```bash
-git clone https://github.com/bicente44/vin.git
+git clone https://github.com/Bicente44/vin
 cd vin
 make
 sudo make install
@@ -35,7 +35,7 @@ The editor will be installed to `/usr/local/bin/vin` and a default config file w
 
 ### User Install (No sudo required)
 ```bash
-git clone https://github.com/bicente44/vin.git
+git clone https://github.com/Bicente44/vin
 cd vin
 make
 make install-user
