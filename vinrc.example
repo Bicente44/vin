@@ -1,0 +1,19 @@
+# vin configuration file
+# Copy to ~/.vinrc to customize
+# Lines starting with # are comments
+
+# Display settings
+line_numbers=on
+tab_width=4
+status_timeout=2
+
+# Keybinding format: (action=KEY)
+# Available keys: A - Z
+quit=CTRL_Q
+save=CTRL_S
+undo=CTRL_U
+redo=CTRL_R
+search=CTRL_F
+delete_line=CTRL_D
+jump_top=CTRL_G
+jump_bottom=CTRL_B
